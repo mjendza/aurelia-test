@@ -1,0 +1,8 @@
+﻿{
+    "EntityFramework": {
+        "MoviesData": {
+            "DataStore": "EntityFramework.SqlServer",
+            "ConnectionString": "Server=localhost\\sqlexpress;Database=movies;integrated security=True;"
+        }
+    }
+}
